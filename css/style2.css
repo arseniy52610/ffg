@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #00963e;
+	background: #0c0c0c;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -16,9 +16,9 @@ body {
 	flex-direction: column;
 	max-width: 450px;
 	max-height: 650px;
-	background: #00581b;
-	width: 550px;
-	height: 750px;
+	background: #161616;
+	width: 450px;
+	height: 650px;
 	border-radius: 20px;
 }
 
@@ -48,14 +48,13 @@ body {
 	margin: 170px auto;
 	width: 300px;
 	font-size: 1.4em;
-	box-shadow: 0 10px 0 #15fc89;
 	transition: all 0.3s;
 	letter-spacing: 0.3em;
 	text-align: center;
 }
 
 .box button:hover {
-	box-shadow: 0 10px 0 #2ac766;
+	box-shadow: 0 10px 0 #f90;
 	transform: translateY(3px);
 }
 
