@@ -14,7 +14,7 @@ body {
 
 .box {
 	flex-direction: column;
-	max-width: 450px;
+	max-width: 120px;
 	max-height: 650px;
 	width: 450px;
 	height: 5650px;
