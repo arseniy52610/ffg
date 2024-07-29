@@ -5,7 +5,7 @@
 }
 
 body {
-	background: #0c0c0c;
+	background: linear-gradient(130deg, #0c0c0c, #191919);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -18,7 +18,7 @@ body {
 	max-height: 550px;
 	width: 450px;
 	height: 650px;
-	background: #161616;
+	background: linear-gradient(130deg, green, rgb(219, 219, 219));
 	border-radius: 20px;
 }
 
@@ -26,7 +26,9 @@ body {
 	color: #ffffff;
 	text-align: center;
 	margin-top: 20px;
-	font-family: roboto;
+	font-family: "Titillium Web", sans-serif;
+	letter-spacing: 0.1em;
+
 
 }
 
@@ -52,13 +54,13 @@ body {
 	border-radius: 60px;
 	margin: 0 auto;
 	display: block;
-	margin: -30px auto;
+	margin: -35px auto;
 	width: 300px;
 	font-size: 1.4em;
 	transition: all 0.3s;
 	letter-spacing: 0.3em;
 	text-align: center;
-	background: #ffffff;
-	color: #191919;
+	background: #191919;
+	color: #ffffff;
 }
 
