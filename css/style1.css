@@ -16,8 +16,8 @@ body {
 	flex-direction: column;
 	max-width: 350px;
 	max-height: 550px;
-	width: 350px;
-	height: 550px;
+	width: 450px;
+	height: 650px;
 	background: #161616;
 	border-radius: 20px;
 }
