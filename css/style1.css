@@ -14,10 +14,10 @@ body {
 
 .box {
 	flex-direction: column;
-	max-width: 120px;
-	max-height: 650px;
-	width: 120px;
-	height: 5650px;
+	max-width: 350px;
+	max-height: 550px;
+	width: 350px;
+	height: 550px;
 	background: #161616;
 	border-radius: 20px;
 }
@@ -71,48 +71,5 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-
-.box-in {
-	flex-direction: column;
-	max-width: 450px;
-	max-height: 650px;
-	width: 450px;
-	height: 5650px;
-	background: #161616;
-	border-radius: 20px;
-}
-
-.box-in img {
-	width: 256px;
-	height: 256px;
-	margin: 35% auto;
-	display: block;
-}
-
-.box-in h1 {
-	color: #ffffff;
-	text-align: center;
-	margin-top: 20px;
-	font-family: Trebuchet MS;
-}
-
-.box-in button {
-	outline: none;
-	border: none;
-	padding: 20px;
-	border-radius: 60px;
-	margin: 0 auto;
-	display: block;
-	margin: -15px auto;
-	width: 300px;
-	font-size: 1.4em;
-	transition: all 0.3s;
-	letter-spacing: 0.3em;
-	text-align: center;
-}
-
-.box-in.active {
-	display: none;
 }
 
